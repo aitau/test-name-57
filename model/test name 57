@@ -1,0 +1,39 @@
+{
+	"id": "a006102b-9781-4576-af94-5499fb9a5f6c",
+	"name": "AITAU AWS EC2 environment",
+	"values": [
+		{
+			"key": "refresh",
+			"value": "",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "username",
+			"value": "",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "password",
+			"value": "",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "baseUrl",
+			"value": "http://3.125.33.38",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "access",
+			"value": "",
+			"type": "secret",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-01-18T15:45:40.707Z",
+	"_postman_exported_using": "Postman/10.6.7"
+}
